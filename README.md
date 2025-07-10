@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src = "https://capsule-render.vercel.app/api?type=waving&height=200&text=lizmini&fontAlign=80&fontAlignY=40&color=gradient" >
+<!-- 출처 : https://github.com/kyechan99/capsule-render -->
 
-<!--
-**lizmini/lizmini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ❤️ Who Am I
+<p align="left">
+
+- My major is E/E
+- MBTI : ISTJ/ESTJ
+- 
+</p><br>
+
